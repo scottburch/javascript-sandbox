@@ -1,0 +1,16 @@
+Everything is an object
+variable scope
+object litterals
+hoisting
+using functions to define objects (fake classes)
+Module pattern
+Adding properties to functions
+Arrays are just objects
+Functional programming
+lodash
+destructuring
+
+ES5 features
+ES6 features
+
+what is 'this'?
